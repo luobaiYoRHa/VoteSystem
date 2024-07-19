@@ -22,3 +22,7 @@ The smart contract `VoteSystem.sol` handles the core voting functionality, inclu
 
 ### How to Run
 npm run serve
+
+### Main Page
+![image](https://github.com/user-attachments/assets/80ebb3dd-fb53-442f-824c-017e17e2fdc2)
+
